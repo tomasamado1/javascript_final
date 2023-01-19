@@ -1,0 +1,48 @@
+.divisionFormulario {
+    display: flex;
+    margin: auto;
+    padding: 0.625em;
+    text-align: center;
+    justify-content: center; }
+
+.botonUno{
+    text-align: center;
+    font-size: 3em;
+}
+
+li{
+    list-style-type: none;
+}
+
+body{
+    background: linear-gradient(0.25turn, #FAF8F1, #FAEAB1, #E5BA73);
+    background-size: 100% 100%;
+}
+
+.parrafoUno{
+    cursor: pointer;
+    text-align: center;
+}
+
+.divUno{
+    background-color: #FAF8F1;
+    width: 85%;
+    border-radius: 0.2em;
+    margin: auto;
+}
+
+.divDos{
+    margin: auto;
+    background-color: #FAF8F1;
+}
+
+.caja{
+    margin: auto;
+    border: 3x;
+    width: 60%;
+    background-color: #FAF8F1;
+}
+
+th, td{
+    border-bottom: 1px solid rgb(165, 163, 163);
+}

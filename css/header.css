@@ -1,0 +1,49 @@
+.navegador {
+    transition-duration: 0.8s;
+    padding: 0.25em;
+    justify-content: center; }
+    .navegador__lista {
+      list-style-type: none;
+      display: flex;
+      justify-content: center; }
+    .navegador__item {
+      color: #FAF8F1;
+      line-height: 1.5em;
+      margin-left: 1.8em;
+      background-color: #C58940;
+      border-radius: 0.6em; }
+    .navegador__link {
+      display: block;
+      color: white;
+      text-align: center;
+      font-size: 1.6em;
+      text-decoration: none;
+      padding: 0.4em; }
+    .navegador__link:hover {
+      color: rgba(27, 22, 22, 0.836);
+      text-decoration: none; }
+    .navegador__link:active {
+      color: #C58940;
+      text-decoration: none;
+    }
+
+.transicionNav:hover {
+    transform: scale(1.15, 1.15);
+    cursor: pointer;
+    background-color: #88725e; }
+
+.cabecera {
+    background: -webkit-radial-gradient(30.75em 4.375em, circle farthest-side, #FAF8F1, #FAEAB1, #E5BA73); }
+    .cabecera__titulo {
+        color: #C58940;
+        font-style: italic;
+        font-weight: bold;
+        font-family: "Dancing Script", cursive;
+        text-shadow: 0.01em 0.04em 0.1em white;
+        font-size: 2.2em;
+        text-align: center;
+        padding: 0.5em;
+}
+
+.scalar:hover {
+    transform: scale(1.03); }

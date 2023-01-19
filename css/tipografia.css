@@ -1,0 +1,41 @@
+h1{
+    font-size: 30px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #E5BA73;
+    padding: 6px;
+    text-align: center;
+}
+
+
+
+p{
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.parrafoTabla{
+    font-size: 1.5em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.parrafoFooterDos{
+    font-size: 16px;
+    padding: 5px;
+    text-align: justify;
+}
+
+.linkCalculadora{
+    font-size: 2.5em;
+    margin: auto;
+    text-align: center;
+}
+
+.linkInicio{
+    font-size: 1.5em;
+    margin: auto;
+    text-align: center;
+}

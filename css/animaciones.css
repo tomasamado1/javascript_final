@@ -1,0 +1,8 @@
+a{
+    transition: 0.8s;
+}
+
+.scalar:hover {
+    transform: scale(1.05);
+    cursor: pointer;    
+}

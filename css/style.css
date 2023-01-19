@@ -1,0 +1,13 @@
+@import "tipografia.css";
+@import "header.css";
+@import "body.css";
+@import "footer.css";
+@import "responsive.css";
+@import "img.css";
+@import "animaciones.css";
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
